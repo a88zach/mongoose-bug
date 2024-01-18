@@ -1,0 +1,14 @@
+{
+  "name": "mongoose-bug",
+  "packageManager": "yarn@4.0.2",
+  "scripts": {
+    "test": "node --test src/"
+  },
+  "dependencies": {
+    "mongoose": "^8.1.0"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^9.1.6",
+    "typescript": "^5.3.3"
+  }
+}
